@@ -37,16 +37,27 @@ Task - 2
 Data Cleaning:
 
 Clean the data by:
+
 •	removing rows that have values which are missing,
+
 •	changing the data type of some values within a column, and
+
 •	removing columns which are not relevant to this task.
-•	Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+
+•	Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be 
+worth including it.
+
 Data Modelling:
 Create a final data set by merging 3 tables
+
 End result will be one spreadsheet
+
 A cleaned dataset
+
 Top 5 categories
+
 Cleaned Data set:
+
 So, the cleaned data set after data modelling & data cleaning: Cleaned Dataset
 
 
@@ -57,7 +68,9 @@ Data Visualization and Storytelling:
 Make the Powerpoint presentation as per the given template
 
 Charts Involved :
+
 Pie Chart
+
 Bar Chart
 
 
